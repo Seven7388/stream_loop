@@ -1,0 +1,83 @@
+[
+  {
+    "channel": "AndorraTV.ad",
+    "id": "SD",
+    "name": "SD",
+    "alt_names": ["Web"],
+    "is_main": true,
+    "broadcast_area": [
+      "ct/ADCAN"
+    ],
+    "languages": [
+      "cat"
+    ],
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "format": "576i"
+  },
+  {
+    "channel": "AdaTV.cy",
+    "id": "SD",
+    "name": "SD",
+    "is_main": true,
+    "broadcast_area": [
+      "c/CY"
+    ],
+    "languages": [
+      "tur"
+    ],
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "format": "576i"
+  },
+  {
+    "channel": "BBCNews.uk",
+    "id": "SD",
+    "name": "SD",
+    "is_main": true,
+    "broadcast_area": [
+      "r/WW"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "format": "576i"
+  },
+  {
+    "channel": "Eve.us",
+    "id": "SD",
+    "name": "SD",
+    "is_main": true,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "format": "576i"
+  },
+  {
+    "channel": "EverydayHeroes.us",
+    "id": "SD",
+    "name": "SD",
+    "is_main": true,
+    "broadcast_area": [
+      "c/US"
+    ],
+    "languages": [
+      "eng"
+    ],
+    "timezones": [
+      "America/Port_of_Spain"
+    ],
+    "format": "576i"
+  }
+]

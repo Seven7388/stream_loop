@@ -1,0 +1,115 @@
+[
+  {
+    "id": "AndorraTV.ad",
+    "name": "Andorra TV",
+    "alt_names": ["ATV"],
+    "network": "Enlave",
+    "owners": ["Disney"],
+    "country": "AD",
+    "categories": ["animation","kids"],
+    "is_nsfw": false,
+    "launched": "2025-09-01",
+    "closed": "2025-10-01",
+    "replaced_by": "BBCNews.uk@HD",
+    "website": "https://www.andorradifusio.ad/"
+  },
+  {
+    "id": "BBCNews.uk",
+    "name": "BBC News",
+    "network": null,
+    "owners": [],
+    "country": "UK",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "news",
+      "general"
+    ],
+    "is_nsfw": false,
+    "replaced_by": "EverydayHeroes.us",
+    "website": null
+  },
+  {
+    "id": "Eve.us",
+    "name": "Eve",
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "replaced_by": "Eve.us@SD",
+    "is_nsfw": false,
+    "website": null
+  },
+  {
+    "id": "EverydayHeroes.us",
+    "name": "Everyday Heroes",
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "is_nsfw": false,
+    "launched": "2025-10-01",
+    "closed": "2025-11-01",
+    "replaced_by": "Eve.us",
+    "website": null
+  },
+  {
+    "id": "LibyasChannel.ly",
+    "name": "Libyas Channel",
+    "network": null,
+    "owners": [],
+    "country": "LY",
+    "subdivision": null,
+    "city": null,
+    "categories": [],
+    "launched": "2022-09-01",
+    "closed": "2025-09-01",
+    "replaced_by": "AndorraTV.ad",
+    "is_nsfw": false,
+    "website": null
+  },
+  {
+    "id": "MeteoMedia.ca",
+    "name": "MétéoMédia",
+    "network": null,
+    "owners": [],
+    "country": "CA",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "weather"
+    ],
+    "is_nsfw": false,
+    "website": null
+  },
+  {
+    "id": "TVN.pl",
+    "name": "TVN",
+    "network": null,
+    "owners": [],
+    "country": "AF",
+    "categories": [],
+    "replaced_by": "BBCNews.uk",
+    "is_nsfw": false,
+    "website": null
+  },
+  {
+    "id": "TUTV.us",
+    "name": "Andorra TV",
+    "network": null,
+    "owners": [],
+    "country": "US",
+    "subdivision": null,
+    "city": null,
+    "categories": [
+      "general"
+    ],
+    "is_nsfw": false,
+    "website": null
+  },
+  {"id":"AdaTV.cy","name":"Ada TV","alt_names":[],"network":null,"owners":[],"country":"CY","categories":["general"],"is_nsfw":false,"launched":"2008-07-20","closed":null,"replaced_by":null,"website":"http://adatv.tv/"}
+]
